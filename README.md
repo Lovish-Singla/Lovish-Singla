@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lovish-Singla
-- 👀 I’m interested in Programming, Web Development and Android Development.
+- 👀 I’m interested in Competitive Programming, Web Development and Android Development.
 - 🌱 I’m currently learning Web Development.
 <!---
 Lovish-Singla/Lovish-Singla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
