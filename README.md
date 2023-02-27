@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lovish Singla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Junior Flutter App Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lovish-singla" alt="lovish-singla" /></a> </p>
+- 🔭 I’m currently working on [Anxiety Go](https://github.com/markhallak/AnxietyGo)
+
+- 🌱 I’m currently learning **C++ Data Structures and Flutter App Development.**
+
+- 👯 I’m looking to collaborate on **Flutter Project**
+
+- 📫 How to reach me **lovishsingla1711@gmail.com**
+
+- ⚡ Fun fact **I love watching movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
