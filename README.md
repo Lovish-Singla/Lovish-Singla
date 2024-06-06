@@ -5,13 +5,11 @@
 
 - 🌱 I’m currently learning **C++ Data Structures and Flutter App Development.**
 
-- 💬 Ask me about **C++,C,Html,CSS,Javascript**
+- 💬 Ask me about **C++, Java Python, Dart and Flutter**
 
-- 👯 I’m looking to collaborate on **Flutter Project**
+- 👯 I’m looking to collaborate on **Flutter App Projects**
 
 - 📫 How to reach me **lovishsingla1711@gmail.com**
-
-- ⚡ Fun fact **I love watching movies.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
